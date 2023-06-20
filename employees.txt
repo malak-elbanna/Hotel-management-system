@@ -1,0 +1,16 @@
+
+malak,202200812,Housekeeper,Housekeeper,2000
+120,450,300,300,-30
+5,0,2,
+menna,202208945,Laundry,Laundry,2500
+120,450,300,300,-30
+5,0,0,
+hassan,1356,security,security,1500
+0,nan,2.86558e-322,2.86558e-322,nan
+0,0,0,
+hassan,12356,security,security,1500
+100,10,130,130,220
+5,2,1,
+ahmed,34567,IT,IT,7000
+1200,300,1000,1000,1900
+5,0,0,
