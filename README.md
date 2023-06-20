@@ -30,7 +30,7 @@ This is a simple Hotel Management System that allows guests to book a room, make
 ## Concepts used
 Object-Oriented Programming, Class Inheritance, Polymorphism, Encapsulation, Input/Output, User-defined data types, Control structures, Typecasting, File handling, Exception handling, Pointers, Dynamic memory allocation, Functions, and Arrays.
 ## Concepts used
-Object-Oriented Programming, Class Inheritance, Polymorphism, Encapsulation, Input/Output, User-defined data types, Control structures, Typecasting, File handling, Exception handling, Pointers, Dynamic memory allocation, Functions, and Arrays.
+Object-Oriented Programming, Class Inheritance, Polymorphism, Encapsulation, Input/Output, User-defined data types, Control structures, Typecasting, File handling, Exception handling, Pointers, Vectors, Dynamic memory allocation, Functions, and Arrays.
 ## Instructions
 1.Download the program files and extract them to a folder.
 
