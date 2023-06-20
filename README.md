@@ -26,9 +26,6 @@ This is a simple Hotel Management System that allows guests to book a room, make
 
 - User interface: The code provides a simple and easy-to-use interface for guests and heads of the hotel.
 
-
-## Concepts used
-Object-Oriented Programming, Class Inheritance, Polymorphism, Encapsulation, Input/Output, User-defined data types, Control structures, Typecasting, File handling, Exception handling, Pointers, Dynamic memory allocation, Functions, and Arrays.
 ## Concepts used
 Object-Oriented Programming, Class Inheritance, Polymorphism, Encapsulation, Input/Output, User-defined data types, Control structures, Typecasting, File handling, Exception handling, Pointers, Vectors, Dynamic memory allocation, Functions, and Arrays.
 ## Instructions
